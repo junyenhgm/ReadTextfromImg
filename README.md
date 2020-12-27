@@ -1,0 +1,2 @@
+"# ReadTextfromImg" 
+# ReadTextfromImg
